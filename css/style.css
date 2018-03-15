@@ -1,0 +1,39 @@
+#mytable {
+	border: 3px solid #000;
+}
+
+
+section {
+	padding: : 3px;
+}
+
+tr{
+	border: 0;
+}
+
+p{
+	text-indent: 25px;
+}
+html *
+{
+   font-family: Arial !important;
+}
+
+table tbody {
+	width="100%"
+	display: block;  
+	padding: 0px;
+}
+
+#details {
+	background-color: #90EE90;
+	width: 250px;
+	padding: 6px;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+#play {
+	padding: 3px;
+	margin-top: 0px;
+}
